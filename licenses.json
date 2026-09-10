@@ -1,0 +1,18 @@
+{
+  "licenses": [
+    {
+      "key": "RAKIB-0001-AAAA-BBBB",
+      "hwid": "A1B2-C3D4-E5F6-G7H8",
+      "approved": true,
+      "expire_date": "2025-12-31",
+      "created": "2025-01-01"
+    },
+    {
+      "key": "RAKIB-0002-CCCC-DDDD",
+      "hwid": "H8G7-F6E5-D4C3-B2A1",
+      "approved": true,
+      "expire_date": "2025-06-30",
+      "created": "2025-01-02"
+    }
+  ]
+}
